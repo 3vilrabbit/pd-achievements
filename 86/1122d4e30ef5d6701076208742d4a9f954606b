@@ -1,0 +1,19 @@
+_data/games.yml
+  s_5808cd0e8dc1ef::t_824c8f892f3d53 570-578
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "861122d4e30ef5d6701076208742d4a9f954606b",
+  "prompts": {},
+  "sessions": {
+    "s_5808cd0e8dc1ef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "29c3c3ea-c405-4cea-8a46-ccb2252228cd",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Antonio <stissi@gmail.com>"
+    }
+  }
+}
